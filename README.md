@@ -63,3 +63,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # ApiRest
+
+# response of api
+para generar la api rest y optimizar el trabajo en lo que es laravel en el tiempo de respuesta trabaje con composer optimize y tener una respuesta junto a eso para el envio de informacion de la base de datos con los seeder que brinda laravel tambien todo el proyecto lo subi a un subdominio de ionos 
